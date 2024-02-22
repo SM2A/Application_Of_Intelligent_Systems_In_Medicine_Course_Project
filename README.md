@@ -1,0 +1,1 @@
+# Application of Intelligent Systems in Medicine Course Project
